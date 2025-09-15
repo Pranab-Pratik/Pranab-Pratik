@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Pranab 👋  
 
-<!--
-**Pranab-Pratik/Pranab-Pratik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Developer** | **MERN & DevOps Enthusiast**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack  
+- **Frontend:** React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **DevOps:** Docker, Kubernetes, AWS, GitHub Actions  
+
+---
+
+### 📌 About Me  
+- 🌱 Currently mastering **MERN stack & DevOps pipelines**  
+- 🛠 Love building **scalable, production-ready apps**  
+- 🔗 Exploring ways to merge **development + deployment** seamlessly  
+
+---
+
+### 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pranab-pratik-sahoo-b4374224b)  
+- 🐙 [GitHub](https://github.com/Pranab-Pratik)  
+- 🐦 [Twitter](https://twitter.com/masalamatrix)  
+
+---
+⭐️ _"Clean code. Reliable deployments. Continuous learning."_  
+
