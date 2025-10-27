@@ -1,6 +1,6 @@
 # Hi, I'm Pranab 👋  
 
-💻 **Full-Stack Developer** | **MERN & DevOps Enthusiast**  
+💻 **Full-Stack Developer** | **JAVA & DevOps Enthusiast**  
 
 ---
 
